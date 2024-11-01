@@ -1,0 +1,23 @@
+Here’s the text further expanded with additional ill-formed references that include commas:
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nunc vehicula, tincidunt metus id, dictum ex. Phasellus et sapien vehicula, luctus ex vitae, luctus orci. Nullam interdum, justo ut suscipit bibendum, elit magna posuere ex, at interdum sem justo a eros. Mauris ac urna et ligula venenatis tristique. Cras vitae lacus elit. Maecenas malesuada consequat felis in pretium. Curabitur vel felis nec odio vehicula malesuada. Quisque euismod lacus sit amet massa feugiat, non sagittis quam congue. Proin vehicula purus a nulla commodo, sed bibendum sem euismod [B+12].
+
+
+Donec sit amet dictum leo, at faucibus nunc. Nullam pretium, erat sit amet volutpat interdum, erat augue pellentesque sem, sed bibendum quam velit at mi. Integer fermentum nisi a orci sollicitudin, nec ullamcorper orci volutpat. Sed sit amet tellus a ipsum tempus ullamcorper id eu mauris []. Phasellus ut tincidunt lacus. Ut vel lectus neque. Phasellus hendrerit diam non libero hendrerit, id aliquam tortor ornare [XYZ]. Duis ultricies, lectus eget vulputate hendrerit, elit tortor condimentum odio, et fermentum nisi ipsum at metus. Etiam id tortor ac sapien vestibulum dictum [M16]. Sed a felis et urna varius dignissim ac id sapien. Curabitur vulputate ligula ut felis egestas [ [, ABC+33].
+
+
+In hac habitasse platea dictumst. Nulla facilisi. Nullam vulputate metus vel felis dictum, eget pharetra velit efficitur. Donec in quam a enim ultricies blandit. Nulla facilisi. Aenean tincidunt metus quis arcu sagittis ornare. Fusce a suscipit eros. Vestibulum scelerisque ex ut ipsum interdum vehicula. Nulla facilisi [Z+21]. Pellentesque vehicula et lectus at ornare. Donec sollicitudin, ipsum at eleifend aliquet, velit felis laoreet nisi, a accumsan ex nisl at dui [A00, BDF87]. Proin ultrices enim in nisl pretium, nec vehicula metus scelerisque [MRT+03]. Nulla viverra eros id est tempor, sed faucibus odio convallis [ABC+99, PQR].
+
+
+Aenean non fringilla sem. Cras porta tellus eu mi vehicula, nec consectetur nunc vehicula. Curabitur sagittis nisl neque, id fermentum nisi faucibus nec. Nulla egestas nisi sed libero tincidunt vehicula. Donec laoreet consequat lacus, vel consequat turpis ullamcorper ut [T+13]. Praesent blandit nisi eu ante dictum, nec vestibulum lectus condimentum. Aenean id orci lacus. Pellentesque condimentum ex sed nibh rhoncus, vel blandit sapien aliquet []]. Donec eu tellus eros. Aliquam non ipsum et nisi finibus molestie. Mauris posuere ex vel felis efficitur tincidunt [Q+40].
+
+
+Vestibulum vitae velit ac nulla efficitur cursus sit amet ac nisl. Nulla eget sapien metus. Aliquam euismod turpis libero, non fermentum sapien elementum sed. Integer tempor mi ac metus dictum gravida. Morbi volutpat interdum metus, sit amet cursus lectus varius sit amet [12+A]. Integer gravida metus ac metus eleifend auctor [LMN]. Fusce consectetur dui at odio consequat dictum [99Q+, ABC+44]. Nam sollicitudin nisi nec nisi luctus fermentum. Mauris ullamcorper velit non suscipit malesuada [, , LDA09].
+
+
+Curabitur eget elit a enim vehicula sodales a vitae sapien. Aenean accumsan ante vitae ligula malesuada, in vestibulum erat elementum [ ]. Fusce vitae turpis in urna fermentum posuere. Maecenas tempor vehicula sem, in pharetra nisi facilisis ac. Nullam consequat nulla ac mi accumsan, nec viverra magna egestas. Aliquam dignissim velit vitae neque ullamcorper, et convallis quam iaculis [XYZ03, T+13,].
+
+
+This expanded version includes additional ill-formed references with commas, such as [ [, ABC+33], [ABC+99, PQR], [99Q+, ABC+44], [, , LDA09], and [XYZ03, T+13,]. Let me know if you need further variations or specific adjustments!
+
